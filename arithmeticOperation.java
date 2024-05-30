@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 import javax.sound.sampled.SourceDataLine;
 class arithOp{
-    int a,b;
+    int a,b,c;
     Scanner sc= new Scanner(System.in);
     void getNum(){
     System.out.println("enter a number:");
